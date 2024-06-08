@@ -2,6 +2,7 @@ package org.frags.serverapi;
 
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
+import org.frags.serverapi.databases.mysql.MySQL;
 import org.frags.serverapi.menusystem.PlayerMenuUtility;
 
 import java.util.HashMap;
